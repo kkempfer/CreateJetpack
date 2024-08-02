@@ -9,5 +9,6 @@
   "item.create_jetpack.jetpack.tooltip.control3": "按下 [G]",
   "item.create_jetpack.jetpack.tooltip.action3": "开启/关闭引擎",
   "item.create_jetpack.jetpack.tooltip.control4": "按下 [H]",
-  "item.create_jetpack.jetpack.tooltip.action4": "开启/关闭悬浮模式"
+  "item.create_jetpack.jetpack.tooltip.action4": "开启/关闭悬浮模式",
+  "key.categories.movement.jetpack": "欢迎来到机械动力 喷气背包"
 }

@@ -9,5 +9,6 @@
   "item.create_jetpack.jetpack.tooltip.control3": "Gを押して",
   "item.create_jetpack.jetpack.tooltip.action3": "エンジンのオン/オフを切り替え",
   "item.create_jetpack.jetpack.tooltip.control4": "Hで",
-  "item.create_jetpack.jetpack.tooltip.action4": "ホバーモードのオン/オフを切り替え"
+  "item.create_jetpack.jetpack.tooltip.action4": "ホバーモードのオン/オフを切り替え",
+  "key.categories.movement.jetpack": "Create ジェットパック"
 }

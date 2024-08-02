@@ -24,5 +24,6 @@
   "item.create_jetpack.netherite_jetpack.tooltip.control3": "Drücke [G]",
   "item.create_jetpack.netherite_jetpack.tooltip.control4": "Press [H]",
   "item.create_jetpack.netherite_jetpack.tooltip.summary": "Ermöglicht Fliegen mithilfe komprimierter Luft",
-  "item.create_jetpack.netherite_jetpack_placeable": "Platzierbares Netheritjetpack"
+  "item.create_jetpack.netherite_jetpack_placeable": "Platzierbares Netheritjetpack",
+  "key.categories.movement.jetpack": "Create Jetpack"
 }

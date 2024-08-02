@@ -9,5 +9,6 @@
   "item.create_jetpack.jetpack.tooltip.control3": "Presiona [G]",
   "item.create_jetpack.jetpack.tooltip.action3": "Encender/apagar el motor",
   "item.create_jetpack.jetpack.tooltip.control4": "Presiona [H]",
-  "item.create_jetpack.jetpack.tooltip.action4": "Activar/desactivar el modo flotante"
+  "item.create_jetpack.jetpack.tooltip.action4": "Activar/desactivar el modo flotante",
+  "key.categories.movement.jetpack": "Create Jetpack"
 }
